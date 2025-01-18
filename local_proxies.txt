@@ -1,6 +1,2 @@
-http://ip:port
-socks4://ip:port
-socks5://ip:port
-http://user:pass@ip:port
-socks4://user:pass@ip:port
-socks5://user:pass@ip:port
+http://Wxy2SR:mFFdAQ@186.65.117.233:9064
+http://dafa:dafa@109.43.49.90:60001
